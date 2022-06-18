@@ -13,6 +13,15 @@
   <a href = "mailto:edermaiafilho@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   <a href="https://www.linkedin.com/in/ederhmaia/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
 
+## &nbsp;Stats
+<div align="center">
+<!--  no link badges trick xD  -->
+  <a href="https://github.com/ederhmaia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ederhmaia&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_rank=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederhmaia&layout=compact&langs_count=7&theme=synthwave "/>
+  
+</div>
+
 ## &nbsp;Stack
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,14 +39,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-
-## &nbsp;Stats
-<div align="center">
-  <a href="https://github.com/ederhmaia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ederhmaia&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederhmaia&layout=compact&langs_count=7&theme=synthwave "/>
-</div>
   
 ## &nbsp;Support
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
