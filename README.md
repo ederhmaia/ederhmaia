@@ -17,8 +17,8 @@
 <div align="center">
 <!--  no link badges trick xD  -->
   <a href="https://github.com/ederhmaia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ederhmaia&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederhmaia&layout=compact&langs_count=8&theme=dracula "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ederhmaia&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_rank=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederhmaia&layout=compact&langs_count=8&theme=synthwave"/>
   
 </div>
 
