@@ -1,6 +1,6 @@
 # &nbsp;Eder Maia, 21yo.
 
-- Jr dev looking for an opportunity to evolve!
+- curiosity moves my knowledge
 
 ## &nbsp;Things I really like:
 - 💾 Technology
