@@ -7,13 +7,6 @@
   <a href = "mailto:edermaiafilho@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   <a href="https://www.linkedin.com/in/ederhmaia/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
 
-## &nbsp;Stats
-<div align="center">
-<!--  no link badges trick xD  -->
-  <a href="https://github.com/ederhmaia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederhmaia&layout=compact&langs_count=8&theme=synthwave"/>
-  
-</div>
 
 ## &nbsp;Support
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
