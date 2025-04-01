@@ -1,6 +1,4 @@
-# &nbsp;Eder Maia, 21yo.
-
-- curiosity moves my knowledge
+# &nbsp;Eder Maia, 24yo.
 
 ## &nbsp;Social
   <a href="https://www.instagram.com/ederjdmf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
